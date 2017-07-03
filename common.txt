@@ -1,4 +1,8 @@
 function a(){
 }
-function a(){
+<<<<<<< HEAD
+function a(master){
+=======
+function c(){
+>>>>>>> exp
 }
