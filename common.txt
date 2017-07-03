@@ -1,8 +1,6 @@
-function a(){
-}
-<<<<<<< HEAD
+function b(){
+}D
 function a(exp){
-=======
+}
 function c(){
->>>>>>> exp
 }
