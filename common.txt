@@ -1,8 +1,6 @@
-function a(){
+function b(){
 }
-<<<<<<< HEAD
-function a(exp){
-=======
+function a(master){
+}
 function c(){
->>>>>>> exp
 }
